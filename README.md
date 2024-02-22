@@ -20,5 +20,5 @@ While 'venv' is active you can make your contributions.\
 In order to deactivate type 'deactivate'
 
 ### Report/Presentation:
-(report)[https://docs.google.com/document/d/1Oa6T5zWiq9jsIVU6aC6CDmV9Vd6zY048PWfu4iCBqhc/edit?usp=sharing]
+[report](https://docs.google.com/document/d/1Oa6T5zWiq9jsIVU6aC6CDmV9Vd6zY048PWfu4iCBqhc/edit?usp=sharing)
 
