@@ -1,0 +1,4 @@
+venv/
+
+# exclude pycharm config
+.idea/
