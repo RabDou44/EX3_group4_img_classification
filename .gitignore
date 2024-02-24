@@ -1,4 +1,3 @@
-# exclude environment - shoudl be recreated from requirements
 venv/
 
 # exclude pycharm config
