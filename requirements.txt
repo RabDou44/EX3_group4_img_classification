@@ -87,3 +87,6 @@ wcwidth==0.2.13
 webencodings==0.5.1
 websocket-client==1.7.0
 yarl==1.9.4
+numpy==1.26.4
+pandas==2.2.0
+opencv-python==4.9.0.80
